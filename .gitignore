@@ -272,3 +272,5 @@ $RECYCLE.BIN/
 # Nix & direnv
 
 .direnv/
+# result symlink to nix store
+result
